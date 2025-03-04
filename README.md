@@ -1,4 +1,4 @@
-# Beamforming with Multimodal Learning
+# Beamforming with Multimodal Feature Extraction
 
 This repository contains the implementation of our research on multimodal learning-based beamforming. 
 
