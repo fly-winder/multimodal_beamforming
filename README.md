@@ -1,6 +1,6 @@
 # Beamforming with Multimodal Learning
 
-This repository contains the implementation of our research on multimodal learning-based beamforming for ultra-massive MIMO systems. The code supports data preprocessing, model training, and evaluation.
+This repository contains the implementation of our research on multimodal learning-based beamforming. 
 
 ## 📂 Repository Structure
 
