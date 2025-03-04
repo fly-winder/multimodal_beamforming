@@ -1,6 +1,6 @@
 # Sensing-Assisted High Reliable Communication: A Transformer-Based Beamforming Approach
 
-This repository contains the implementation of our research on multimodal learning-based beamforming. 
+This repository contains the implementation of our research on multimodal learning-based beamforming. This work is based on the research paper: **[Sensing-Assisted High Reliable Communication: A Transformer-Based Beamforming Approach](https://ieeexplore.ieee.org/document/10539181)**.
 
 ## 📂 Repository Structure
 
