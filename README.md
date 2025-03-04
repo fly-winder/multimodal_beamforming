@@ -1,4 +1,4 @@
-# Beamforming with Multimodal Feature Fusion
+# Sensing-Assisted High Reliable Communication: A Transformer-Based Beamforming Approach
 
 This repository contains the implementation of our research on multimodal learning-based beamforming. 
 
